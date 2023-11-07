@@ -1,4 +1,5 @@
 .idea
 venv
-ssh-key
-ssh-key.pub
+ssh_key/ssh-key
+ssh_key/ssh-key.pub
+ssh_key
